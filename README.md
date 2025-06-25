@@ -36,5 +36,5 @@ This project demonstrates the use of:
 * The population data is **hardcoded**, not fetched dynamically
 * No input validation or loop to allow multiple selections
 
----
+
 
