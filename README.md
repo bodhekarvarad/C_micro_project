@@ -31,7 +31,6 @@ This project demonstrates the use of:
 
 ### ⚠ Limitations
 
-* Some **spelling errors** in the country names and data fields
 * Uses **outdated Turbo C functions** (`clrscr()` and `getch()`), which don't work in modern compilers
 * The population data is **hardcoded**, not fetched dynamically
 * No input validation or loop to allow multiple selections
